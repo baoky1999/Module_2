@@ -8,11 +8,11 @@ class Students {
 
     }
 
-    private void setName(String newName) {
+    public void setName(String newName) {
         this.name = newName;
     }
 
-    private void setClass(String newClasses) {
+    public void setClass(String newClasses) {
         this.classes = newClasses;
     }
 }
