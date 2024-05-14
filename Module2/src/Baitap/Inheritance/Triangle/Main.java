@@ -19,6 +19,5 @@ public class Main {
         System.out.println(triangle.toString());
         System.out.println("Diện tích tam giác : " + triangle.getArea());
         System.out.println("Chu vi tam giác : " + triangle.getPerimeter());
-
     }
 }
