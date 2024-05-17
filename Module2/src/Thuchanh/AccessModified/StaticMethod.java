@@ -1,4 +1,4 @@
-package Baitap.AccessModified;
+package Thuchanh.AccessModified;
 
 public class StaticMethod {
 

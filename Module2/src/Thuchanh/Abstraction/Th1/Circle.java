@@ -35,6 +35,7 @@ public class Circle extends Shape {
     public String toString() {
         return "A circle with radius = "
                 + getRadius()
+                + " Acreage = " + getAgea()
                 + ", which is a subclass is "
                 + super.toString();
     }

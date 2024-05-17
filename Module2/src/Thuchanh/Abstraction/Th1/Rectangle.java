@@ -48,6 +48,7 @@ public class Rectangle extends Shape {
                 + getWidth()
                 + " and length ="
                 + getLength()
+                + " Agea = " + getAgea()
                 + ", which is a subclass of "
                 + super.toString();
     }

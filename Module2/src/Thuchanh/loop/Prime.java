@@ -11,8 +11,8 @@ public class Prime {
 
         if (number < 2) {
             System.out.println(number + " is NOT a prime");
-        }else {
-            int i =2;
+        } else {
+            int i = 2;
             boolean check = true;
             while (i <= Math.sqrt(number)) {
                 if (number % i == 0) {
@@ -23,7 +23,7 @@ public class Prime {
             }
             if (check) {
                 System.out.println(number + " is a prime");
-            }else {
+            } else {
                 System.out.println(number + " is not a prime");
             }
         }
